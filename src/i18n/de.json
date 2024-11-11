@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "de": "Deutsch",
+        "en": "Englisch",
+        "fa": "Persisch"
+    },
+    "navigation": {
+        "home": "Startseite",
+        "about": "Über uns",
+        "club": "Vereinsmanagement",
+        "player": "Spielermanagement",
+        "law": "Gesetze",
+        "team": "Team",
+        "contact": "Kontakt",
+        "imprint": "Impressum",
+        "notFound": "Nicht gefunden"
+    },
+    "korko": {
+        "fullName": "KORKO Fußballmanagement"
+    },
+    "slangs": [
+        "Sport ist es wert, ernst genommen zu werden.",
+        "Der Tätigkeitsumfang des KORKO Fußballmanagement ist so vielfältig wie der Fußball selbst.",
+        "Wir möchten Sie ewig für uns gewinnen.",
+        "Die kleinste Sorglosigkeit bei dem Entwurf des Vertrages könnte großer Probleme in Zukunft verursachen.",
+        "Von Anfang an bis zum Ende.",
+        "Wir tun alles damit Sie sich auf wesentlichen konzentrieren können. Nämlich Ihre Kariere."
+    ],
+    "home": {
+        "whatWeKnow": "KORKO Fußballmanagement kennt und schätzt die Wichtigkeit des Fußball und dessen Auswirkung auf Menschen und Gesellschaften Weltweit. Sowohl in Breitenfußball als auch in Leistungsfußball. Wir beraten und begleiten Sie in allen Bereichen des Fußballes und freuen uns Sie bald kennen zu lernen."
+    },
+    "about": {
+        "title": "Über KORKO Fußballmanagement",
+        "yourPassion": ""
+    },
+    "imprint": {
+        "title": "Impressum"
+    }
+}
